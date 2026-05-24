@@ -76,7 +76,7 @@ I'm a **pre-final year Computer Science** undergraduate with hands-on experience
 
 Built an AI-powered travel planner that generates personalized multi-day itineraries. Integrates **Google Maps** for route optimization across 100+ locations and **jsPDF** for instant itinerary export.
 
-`Node.js` `MongoDB` `OpenAI API` `Google Maps API`
+`Node.js` `MongoDB` `Groq API`
 
 [🔗 View Project](https://github.com/rishusinghal15/AI-integrated-travel-itinerary-planner)
 
@@ -124,14 +124,14 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishusinghal15&theme=github-dark-blue&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=rishusinghal15&theme=github-dark-blue&hide_border=true" width="60%"/>
 
 </div>
 
