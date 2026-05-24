@@ -128,11 +128,12 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <div align="center">
 
-![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-58-38bdf8?style=for-the-badge&logo=github&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.91%2F10-7ee787?style=for-the-badge&logo=academia&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-7-f0883e?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20To-Internships-ff6b6b?style=for-the-badge&logo=handshake&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
