@@ -147,11 +147,11 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ## 🎓 Certifications
 
-- 🏅 Google Project Management Professional Certificate — *Coursera*
-- ⚛️ Building Modern Projects with React — *LinkedIn Learning*
-- 🟢 Node.js Essential Training — *LinkedIn Learning*
-- 🟡 JavaScript Essential Training — *LinkedIn Learning*
-- 📐 Algorithm Analysis & Design Techniques — *upGrad Campus*
+- 🏅 Google Project Management Professional Certificate - *Coursera*
+- ⚛️ Building Modern Projects with React - *LinkedIn Learning*
+- 🟢 Node.js Essential Training - *LinkedIn Learning*
+- 🟡 JavaScript Essential Training - *LinkedIn Learning*
+- 📐 Algorithm Analysis & Design Techniques - *upGrad Campus*
 
 ---
 
