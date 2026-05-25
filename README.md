@@ -24,7 +24,7 @@ const rishu = {
   cgpa:       8.91,
   stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
   interests:  ["AI-integrated apps", "System Design", "DSA", "Scalable backends"],
-  status:     "🟢 Open to internship opportunities",
+  status:     " Open to internships and Job opportunities",
   funFact:    "I built a working blockchain from scratch — just to understand how it works."
 };
 ```
