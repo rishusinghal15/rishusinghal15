@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=120&section=header" width="100%"/>
 
-# Hi, I am Rishu Singhal. 
+# Hi, I'm Rishu Singhal. 
 
 **Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies**
 
@@ -137,7 +137,7 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - 🔨 Deepening expertise in **System Design** and **DSA** (C++/JS)
 - 📚 Exploring **AI/LLM integrations** in full-stack apps
