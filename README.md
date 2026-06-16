@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:1a4a7a&height=200&section=header&text=Hi%2C%20I%20am%20Rishu%20Singhal.&fontSize=46&fontColor=e6f1ff&fontAlignY=42&desc=Aspiring%20Software%20Engineer%20%7C%20Blockchain%20%26%20Full-Stack%20%7C%20AI%20%26%20Web%20Technologies&descAlignY=65&descSize=15&descColor=7eb8f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:1a4a7a&height=130&section=header" width="100%"/>
+
+# Hi, I am Rishu Singhal. 👋
+
+**Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+React+%2B+Node.js;Blockchain+Builder+%7C+Proof-of-Work+from+Scratch;AI+%26+LLM+Integration+Enthusiast;Open+to+SDE+Internships+2026%E2%80%932027)](https://git.io/typing-svg)
 
 <br/>
 
