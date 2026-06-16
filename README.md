@@ -132,17 +132,11 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=7eb8f7&icon_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true&title_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=rishusinghal15&theme=dark&hide_border=true&background=0d1117&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=e6f1ff&dates=8899aa&currStreakNum=e6f1ff&sideNums=e6f1ff" width="60%"/>
-
-</div>
-
----
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=7eb8f7&icon_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117&cache_seconds=1800&v=2" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true&title_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117&cache_seconds=1800&v=2" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=rishusinghal15&theme=dark&hide_border=true&background=0d1117&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=e6f1ff&dates=8899aa&currStreakNum=e6f1ff&sideNums=e6f1ff&v=2" width="60%"/>
+</div>---
 
 ## 🧩 Competitive Programming
 
