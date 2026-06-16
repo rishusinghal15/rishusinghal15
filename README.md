@@ -78,24 +78,28 @@ I'm a **pre-final year Computer Science** undergraduate with hands-on experience
 <tr>
 <td width="50%">
 
-### AI Integrated Travel Itinerary Planner
+### 🤖 AI Integrated Travel Itinerary Planner
 > Cut trip planning time by **80%** using OpenAI API
 
 Built an AI-powered travel planner that generates personalized multi-day itineraries. Integrates **Google Maps** for route optimization across 100+ locations and **jsPDF** for instant itinerary export.
 
-`Node.js` `MongoDB` `Groq API`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-FF6C37?style=flat-square)
 
 [🔗 View Project](https://github.com/rishusinghal15/AI-integrated-travel-itinerary-planner)
 
 </td>
 <td width="50%">
 
-### Blockchain-Explorer
+### ⛓️ Blockchain-Explorer
 > Custom blockchain with **100+ validated entries**
 
 Built a Proof-of-Work blockchain from scratch with dynamic difficulty adjustment, hash-linkage validation, and a live React.js block explorer with real-time updates via REST APIs.
 
-`React.js` `Node.js` `Express.js` `REST APIs`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 [🔗 View Project](https://github.com/rishusinghal15/Proof-of-Work-Blockchain-Explorer-Full-Stack-Implementation-)
 
@@ -104,24 +108,28 @@ Built a Proof-of-Work blockchain from scratch with dynamic difficulty adjustment
 <tr>
 <td width="50%">
 
-### Real-Time Currency Converter
+### 💱 Real-Time Currency Converter
 > Live rates via REST API with async JS
 
 A real-time currency conversion web app with dynamic rate updates, optimized API calls, and a fully responsive UI.
 
-`JavaScript` `REST APIs` `Async JS`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-0078D4?style=flat-square)
+![Async JS](https://img.shields.io/badge/Async_JS-grey?style=flat-square)
 
 [🔗 View Project](https://github.com/rishusinghal15/Real-Time-Currency-Conversion-Web-Application)
 
 </td>
 <td width="50%">
 
-### ShadowFox Internship Projects
+### 🌐 ShadowFox Internship Projects
 > Live client-facing web projects
 
 Responsive portfolio website + IPL Team website with 20+ player profiles. Optimized web components for a client project reducing page load time.
 
-`HTML` `CSS` `JavaScript`
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [🔗 View Project](https://github.com/rishusinghal15/ShadowFox)
 
@@ -132,11 +140,18 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=7eb8f7&icon_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117&cache_seconds=1800&v=2" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true&title_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117&cache_seconds=1800&v=2" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=rishusinghal15&theme=dark&hide_border=true&background=0d1117&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=e6f1ff&dates=8899aa&currStreakNum=e6f1ff&sideNums=e6f1ff&v=2" width="60%"/>
-</div>---
+
+![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7eb8f7&icon_color=7eb8f7&text_color=e6f1ff&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&hide_border=true&bg_color=0d1117&title_color=7eb8f7&text_color=e6f1ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rishusinghal15&hide_border=true&background=0d1117&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=e6f1ff&dates=8899aa&currStreakNum=e6f1ff&sideNums=e6f1ff)
+
+</div>
+
+---
 
 ## 🧩 Competitive Programming
 
@@ -144,10 +159,8 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 [![Codolio](https://img.shields.io/badge/View%20Full%20CP%20Portfolio%20on%20Codolio-1a4a7a?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Rishu%20Singhal)
 
-</div>
-
-<div align="center">
 <img src="https://codolio.com/api/og/Rishu%20Singhal" alt="Rishu Singhal - Codolio Stats" width="70%" style="border-radius:10px; margin-top:10px;"/>
+
 </div>
 
 > Tracking DSA progress, contest ratings, and problem-solving stats across LeetCode, Codeforces, CodeChef & more — all in one place.
@@ -164,11 +177,13 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ## 🎓 Certifications
 
-- 🏅 Google Project Management Professional Certificate — *Coursera*
-- ⚛️ Building Modern Projects with React — *LinkedIn Learning*
-- 🟢 Node.js Essential Training — *LinkedIn Learning*
-- 🟡 JavaScript Essential Training — *LinkedIn Learning*
-- 📐 Algorithm Analysis & Design Techniques — *upGrad Campus*
+```
+🏅  Google Project Management Professional Certificate  [Coursera]
+⚛️  Building Modern Projects with React                [LinkedIn Learning]
+🟢  Node.js Essential Training                         [LinkedIn Learning]
+🟡  JavaScript Essential Training                      [LinkedIn Learning]
+📐  Algorithm Analysis & Design Techniques             [upGrad Campus]
+```
 
 ---
 
