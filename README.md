@@ -1,38 +1,23 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 230" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Rishu Singhal GitHub Profile Banner</title>
-  <desc>Cover banner reading "Hi, I am Rishu Singhal." with subtitle and social links</desc>
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#0f2942"/>
-      <stop offset="100%" stop-color="#1a4a7a"/>
-    </linearGradient>
-  </defs>
-  <rect width="680" height="230" rx="12" fill="url(#bg)"/>
-  <text x="340" y="85" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Hi, I am Rishu Singhal.</text>
-  <text x="340" y="122" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8c8f0">Aspiring Software Engineer  |  Full-Stack &amp; Blockchain Developer  |  AI &amp; Web Technologies</text>
-  <a href="https://linkedin.com/in/rishusinghal">
-    <rect x="82" y="150" width="118" height="34" rx="5" fill="#0A66C2"/>
-    <text x="141" y="172" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="0.5">LINKEDIN  CONNECT</text>
-  </a>
-  <a href="https://github.com/rishusinghal15">
-    <rect x="210" y="150" width="102" height="34" rx="5" fill="#1a1a1a" stroke="#ffffff" stroke-width="0.8"/>
-    <text x="261" y="172" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="0.5">GITHUB  FOLLOW</text>
-  </a>
-  <a href="mailto:rishusinghal2404@gmail.com">
-    <rect x="322" y="150" width="110" height="34" rx="5" fill="#EA4335"/>
-    <text x="377" y="172" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="0.5">GMAIL  CONTACT</text>
-  </a>
-  <a href="https://codolio.com/profile/Rishu%20Singhal">
-    <rect x="442" y="150" width="118" height="34" rx="5" fill="#1a4a7a" stroke="#7eb8f7" stroke-width="0.8"/>
-    <text x="501" y="172" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="0.5">CODOLIO  PORTFOLIO</text>
-  </a>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:1a4a7a&height=130&section=header" width="100%"/>
+
+# Hi, I am Rishu Singhal. 👋
+
+**Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+React+%2B+Node.js;Blockchain+Builder+%7C+Proof-of-Work+from+Scratch;AI+%26+LLM+Integration+Enthusiast;Open+to+SDE+Internships+2026%E2%80%932027)](https://git.io/typing-svg)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishusinghal)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishusinghal15)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishusinghal2404@gmail.com)
+&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-1a4a7a?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Rishu%20Singhal)
+&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=rishusinghal15&color=1a4a7a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rishusinghal15)
 
 </div>
