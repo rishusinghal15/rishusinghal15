@@ -1,21 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0f2942,100:1a4a7a&height=200&section=header&text=Rishu%20Singhal&fontSize=60&fontColor=e6f1ff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI-Integrated%20Apps&descAlignY=68&descSize=18&descColor=7eb8f7&animation=fadeIn" width="100%"/>
 
-# Hi, I am Rishu Singhal. 
+<br/>
 
-**Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishusinghal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishusinghal15)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishusinghal2404@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rishusinghal15&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rishusinghal15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishusinghal)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishusinghal15)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishusinghal2404@gmail.com)
+&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-1a4a7a?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Rishu%20Singhal)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=rishusinghal15&color=1a4a7a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rishusinghal15)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const rishu = {
@@ -24,7 +27,7 @@ const rishu = {
   cgpa:       8.91,
   stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
   interests:  ["AI-integrated apps", "System Design", "DSA", "Scalable backends"],
-  status:     " Open to internships and Job opportunities",
+  status:     "Open to internships and job opportunities",
   funFact:    "I built a working blockchain from scratch — just to understand how it works."
 };
 ```
@@ -128,30 +131,46 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=7eb8f7&icon_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true&title_color=7eb8f7&text_color=e6f1ff&bg_color=0d1117" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=rishusinghal15&theme=github-dark-blue&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=rishusinghal15&theme=dark&hide_border=true&background=0d1117&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=e6f1ff&dates=8899aa&currStreakNum=e6f1ff&sideNums=e6f1ff" width="60%"/>
 
 </div>
 
 ---
 
-## Currently
+## 🧩 Competitive Programming
+
+<div align="center">
+
+[![Codolio](https://img.shields.io/badge/View%20Full%20CP%20Portfolio%20on%20Codolio-1a4a7a?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Rishu%20Singhal)
+
+</div>
+
+<div align="center">
+<img src="https://codolio.com/api/og/Rishu%20Singhal" alt="Rishu Singhal - Codolio Stats" width="70%" style="border-radius:10px; margin-top:10px;"/>
+</div>
+
+> Tracking DSA progress, contest ratings, and problem-solving stats across LeetCode, Codeforces, CodeChef & more — all in one place.
+
+---
+
+## 📌 Currently
 
 - 🔨 Deepening expertise in **System Design** and **DSA** (C++/JS)
 - 📚 Exploring **AI/LLM integrations** in full-stack apps
-- 🎯 Targeting **SDE internship** for 2026-2027 — open to exciting opportunities!
+- 🎯 Targeting **SDE internship** for 2026–2027 — open to exciting opportunities!
 
 ---
 
 ## 🎓 Certifications
 
-- 🏅 Google Project Management Professional Certificate - *Coursera*
-- ⚛️ Building Modern Projects with React - *LinkedIn Learning*
-- 🟢 Node.js Essential Training - *LinkedIn Learning*
-- 🟡 JavaScript Essential Training - *LinkedIn Learning*
-- 📐 Algorithm Analysis & Design Techniques - *upGrad Campus*
+- 🏅 Google Project Management Professional Certificate — *Coursera*
+- ⚛️ Building Modern Projects with React — *LinkedIn Learning*
+- 🟢 Node.js Essential Training — *LinkedIn Learning*
+- 🟡 JavaScript Essential Training — *LinkedIn Learning*
+- 📐 Algorithm Analysis & Design Techniques — *upGrad Campus*
 
 ---
 
@@ -159,6 +178,6 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a4a7a,60:0f2942,100:0d1117&height=60&section=footer" width="100%"/>
 
 </div>
