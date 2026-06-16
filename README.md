@@ -144,21 +144,19 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ---
 
-## 🧩 Coding Stats
+## 🧩 Competitive Programming
 
 <div align="center">
 
 [![Codolio](https://img.shields.io/badge/View%20Full%20CP%20Portfolio%20on%20Codolio-1a4a7a?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Rishu%20Singhal)
 
-<br/><br/>
+</div>
 
-<img src="https://leetcard.jacoblin.cool/rishusinghal15?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Live Stats" width="70%"/>
-
+<div align="center">
+<img src="https://codolio.com/api/og/Rishu%20Singhal" alt="Rishu Singhal - Codolio Stats" width="70%" style="border-radius:10px; margin-top:10px;"/>
 </div>
 
 > Tracking DSA progress, contest ratings, and problem-solving stats across LeetCode, Codeforces, CodeChef & more — all in one place.
-
-> ⚡ The card above pulls **live data** directly from LeetCode on every page load — no manual updates needed.
 
 ---
 
