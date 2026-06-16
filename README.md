@@ -147,10 +147,6 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&hide_border=true&bg_color=0d1117&title_color=7eb8f7&text_color=e6f1ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rishusinghal15&hide_border=true&background=0d1117&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7&sideLabels=e6f1ff&dates=8899aa&currStreakNum=e6f1ff&sideNums=e6f1ff)
-
-<br/>
-
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
