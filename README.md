@@ -6,8 +6,6 @@
 
 **Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+React+%2B+Node.js;Blockchain+Builder+%7C+Proof-of-Work+from+Scratch;AI+%26+LLM+Integration+Enthusiast;Open+to+SDE+Internships+2026%E2%80%932027)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishusinghal)
