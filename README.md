@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0f2942,100:1a4a7a&height=200&section=header&text=Rishu%20Singhal&fontSize=60&fontColor=e6f1ff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI-Integrated%20Apps&descAlignY=68&descSize=18&descColor=7eb8f7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:1a4a7a&height=220&section=header&text=Hi%2C%20I%20am%20Rishu%20Singhal.&fontSize=48&fontColor=e6f1ff&fontAlignY=45&desc=Aspiring%20Software%20Engineer%20%7C%20Blockchain%20%26%20Full-Stack%20Development%20%7C%20Building%20Scalable%20Web%20Applications%20%7C%20AI%20%26%20Web%20Technologies&descAlignY=68&descSize=13&descColor=7eb8f7&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -178,6 +178,6 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a4a7a,60:0f2942,100:0d1117&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a7a,50:0f2942,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
