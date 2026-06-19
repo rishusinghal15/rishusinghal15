@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const rishu = {
