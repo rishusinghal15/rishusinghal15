@@ -26,7 +26,7 @@
 
 ```javascript
 const rishu = {
-  role:       "Full Stack Developer",
+  role:       "Aspiring Software Engineer",
   university: "JECRC University, Jaipur",
   cgpa:       8.91,
   stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
