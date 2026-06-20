@@ -36,7 +36,7 @@ const rishu = {
 };
 ```
 
-I'm a **pre-final year Computer Science** undergraduate with hands-on experience in full-stack web development and AI-integrated applications using React.js, Node.js and REST APIs, with a strong interest in Data Structures & Algorithms. Passionate about problem-solving and aspiring to build scalable, user-focused software solutions as a **Software Development Engineer.**
+I'm a **final year Computer Science** undergraduate with hands-on experience in full-stack web development and AI-integrated applications using React.js, Node.js and REST APIs, with a strong interest in Data Structures & Algorithms. Passionate about problem-solving and aspiring to build scalable, user-focused software solutions as a **Software Development Engineer.**
 
 ---
 
