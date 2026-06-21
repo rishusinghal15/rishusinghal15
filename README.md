@@ -176,7 +176,7 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 - 🔨 Deepening expertise in **System Design** and **DSA** (C++/JS)
 - 📚 Exploring **AI/LLM integrations** in full-stack apps
-- 🎯 Targeting **SDE internship** for 2026–2027 — open to exciting opportunities!
+- 🎯 Targeting **SDE internship & full time roles** for 2026–2027 — open to exciting opportunities!
 
 ---
 
