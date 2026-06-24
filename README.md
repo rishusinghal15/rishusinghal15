@@ -78,7 +78,7 @@ I'm a **final year Computer Science** undergraduate with hands-on experience in 
 <tr>
 <td width="50%">
 
-### 🤖 AI Integrated Travel Itinerary Planner
+### 🤖 AI Integrated Itinerary Planner
 > Cut trip planning time by **80%** using OpenAI API
 
 Built an AI-powered travel planner that generates personalized multi-day itineraries. Integrates **Google Maps** for route optimization across 100+ locations and **jsPDF** for instant itinerary export.
