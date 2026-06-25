@@ -30,7 +30,7 @@ const rishu = {
   university: "JECRC University, Jaipur",
   cgpa:       8.91,
   stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
-  interests:  ["AI-integrated apps", "System Design", "DSA", "Scalable backends"],
+  interests:  ["AI-integrated apps", "System Design", "Problem Solving", "Scalable backends"],
   status:     "Open to internships and job opportunities",
   funFact:    "I built a working blockchain from scratch — just to understand how it works."
 };
