@@ -32,7 +32,7 @@ const rishu = {
   stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
   interests:  ["AI-integrated apps", "System Design", "DSA", "Problem Solving", "Scalable backends"],
   status:     "Open to internships and job opportunities",
-  funFact:    "I built a working blockchain from scratch — just to understand how it works."
+  funFact:    "I built a working blockchain from scratch, just to understand how it works."
 };
 ```
 
