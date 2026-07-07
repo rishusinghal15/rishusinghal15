@@ -78,7 +78,7 @@ I'm a **final-year Computer Science** undergraduate with hands-on experience in 
 <tr>
 <td width="50%">
 
-### 🤖 AI Integrated Travel Itinerary Planner
+### 🤖 AI-Integrated Travel Itinerary Planner
 > Cut trip planning time by **80%** using OpenAI API
 
 Built an AI-powered travel planner that generates personalized multi-day itineraries. Integrates **Google Maps** for route optimization across 100+ locations and **jsPDF** for instant itinerary export.
@@ -143,16 +143,22 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <div align="center">
 
-![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7eb8f7&icon_color=7eb8f7&text_color=e6f1ff&count_private=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&hide_border=true&bg_color=0d1117&title_color=7eb8f7&text_color=e6f1ff)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
 
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
-<br/>
+<br><br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%201%2C567%20contributions%20in%20the%20last%20year)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/>
 
 </div>
 
