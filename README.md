@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:1a4a7a&height=130&section=header" width="100%"/>
 
-# Hi, I am Rishu Singhal.
+# Hi, I am Rishu Singhal
 
 **Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies | SDE Intern @Grids Apps LLC**
 
