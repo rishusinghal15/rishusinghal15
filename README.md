@@ -139,30 +139,23 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=github-dark-blue&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishusinghal15&theme=github_dark"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/>
 
 </div>
-
----
 
 ## 🧩 Competitive Programming
 
