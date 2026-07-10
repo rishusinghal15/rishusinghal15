@@ -22,18 +22,23 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-
-javascript
+```javascript
 const rishu = {
-  role:       "Aspiring Software Engineer",
+  role: "Aspiring Software Engineer",
   university: "JECRC University, Jaipur",
-  cgpa:       8.91,
-  stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
-  interests:  ["AI-integrated apps", "System Design", "DSA", "Problem Solving", "Scalable backends"],
-  status:     "Open to internships and job opportunities",
-  funFact:    "I built a working blockchain from scratch, just to understand how it works."
+  cgpa: 8.91,
+  stack: ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
+  interests: [
+    "AI-integrated Apps",
+    "System Design",
+    "DSA",
+    "Problem Solving",
+    "Scalable Backends"
+  ],
+  status: "Open to Software Development Engineer Opportunities",
+  funFact: "Built a Proof-of-Work blockchain from scratch."
 };
 
 
