@@ -150,7 +150,7 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishusinghal15&theme=github_dark"/>
 
 <br><br>
 
