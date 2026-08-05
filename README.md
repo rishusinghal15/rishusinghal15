@@ -163,7 +163,7 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity&count_private=true"/>
+<img src="https://ghchart.rshah.org/7eb8f7/rishusinghal15" alt="Rishu Singhal's GitHub Contribution Graph"/>
 
 </div>
 
