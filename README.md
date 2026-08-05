@@ -28,7 +28,7 @@
 const rishu = {
   role: "Aspiring Software Engineer",
   university: "JECRC University, Jaipur",
-  cgpa: 8.91,
+  cgpa: 9.0,
   stack: ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
   interests: [
     "AI-integrated Apps",
@@ -145,7 +145,27 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ---
 
-## 📊 GitHub Stats <div align="center"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/> <br><br> <img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/> <br><br> ![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) ![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/> </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+<br><br>
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity&count_private=true"/>
+
+</div>
 
 ## 🧩 Competitive Programming
 
@@ -171,13 +191,11 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ## 🎓 Certifications
 
-
 🏅  Google Project Management Professional Certificate  [Coursera]
 ⚛️  Building Modern Projects with React                [LinkedIn Learning]
 🟢  Node.js Essential Training                         [LinkedIn Learning]
 🟡  JavaScript Essential Training                      [LinkedIn Learning]
 📐  Algorithm Analysis & Design Techniques             [upGrad Campus]
-
 
 ---
 
