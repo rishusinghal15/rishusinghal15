@@ -4,7 +4,7 @@
 
 # Hi, I am Rishu Singhal.
 
-**Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Applications | AI & Web Technologies | Software Engineering Intern @Grids Apps LLC**
+**Aspiring Software Engineer | Blockchain & Full-Stack Development | Building Scalable Web Application | AI & Web Technologies | Software Engineering Intern @Grids Apps LLC**
 
 <br/>
 
