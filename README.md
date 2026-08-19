@@ -182,12 +182,13 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://raw.githubusercontent.com/rishusinghal15/rishusinghal15/output/generated/overview.svg"/>
+<img height="180em" src="https://raw.githubusercontent.com/rishusinghal15/rishusinghal15/output/generated/languages.svg"/>
 <br><br>
 <img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 <br><br>
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) ![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+<img src="https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/>
 
