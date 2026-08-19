@@ -182,8 +182,6 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 <div align="center">
 
-<img height="180em" src="https://raw.githubusercontent.com/rishusinghal15/rishusinghal15/output/generated/languages.svg"/>
-<br><br>
 <img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 <br><br>
 <img src="https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
