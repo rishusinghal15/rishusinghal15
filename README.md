@@ -29,52 +29,70 @@ const rishu = {
   role: "Aspiring Software Engineer",
   university: "JECRC University, Jaipur",
   cgpa: 9.0,
-  stack: ["React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
+  problemsSolved: "250+ (LeetCode & GeeksforGeeks)",
+  coreCS: ["DSA", "OOP", "Operating Systems", "Computer Networks", "DBMS", "Distributed Systems"],
+  stack: ["C/C++", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
   interests: [
+    "Systems Software",
+    "Performance-Oriented Programming",
+    "Distributed Applications",
     "AI-integrated Apps",
-    "System Design",
-    "DSA",
-    "Problem Solving",
-    "Scalable Backends"
+    "System Design"
   ],
-  status: "Open to Software Development Engineer Opportunities",
+  status: "Software Engineering Intern @Grids Apps LLC",
   funFact: "Built a Proof-of-Work blockchain from scratch."
 };
 ```
 
-I'm a **final-year Computer Science** undergraduate with hands-on experience in full-stack web development and AI-integrated applications using React.js, Node.js, and REST APIs, and a strong interest in Data Structures & Algorithms. Passionate about problem-solving and aspiring to build scalable, user-focused software solutions as a **Software Development Engineer.**
+Final-year **Computer Science** undergraduate with a strong foundation in C/C++, Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, and DBMS, with **250+ coding problems solved** across LeetCode and GeeksforGeeks. I have hands-on experience in software development, debugging, and building distributed applications, with a strong interest in **systems software, performance-oriented programming, and emerging technologies.**
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Programming Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Core CS**
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-5C2D91?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-5C2D91?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-5C2D91?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-5C2D91?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-5C2D91?style=for-the-badge)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+**Systems & Development**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0078D4?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Databases & Tools**
+**Databases & Data Modeling**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -85,10 +103,11 @@ I'm a **final-year Computer Science** undergraduate with hands-on experience in 
 <td width="50%">
 
 ### 🤖 AI-Integrated Travel Itinerary Planner
-> Cut trip planning time by **80%** using OpenAI API
+> Cut trip planning time by **80%** using Groq AI
 
-Built an AI-powered travel planner that generates personalized multi-day itineraries. Integrates **Google Maps** for route optimization across 100+ locations and **jsPDF** for instant itinerary export.
+Built an AI-powered travel planner that generates personalized multi-day itineraries. Uses **React.js, Node.js, MongoDB, and Groq API** with JWT authentication, third-party integrations, and REST APIs tested/debugged via Postman.
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Groq API](https://img.shields.io/badge/Groq_API-FF6C37?style=flat-square)
@@ -98,10 +117,10 @@ Built an AI-powered travel planner that generates personalized multi-day itinera
 </td>
 <td width="50%">
 
-### ⛓️ Blockchain-Explorer
+### ⛓️ Full-Stack PoW Blockchain System
 > Custom blockchain with **100+ validated entries**
 
-Built a Proof-of-Work blockchain from scratch with dynamic difficulty adjustment, hash-linkage validation, and a live React.js block explorer with real-time updates via REST APIs.
+Built a Proof-of-Work blockchain from scratch with dynamic difficulty adjustment and secure block validation. Ensured data integrity via cryptographic hash-linking, with REST APIs for secure transaction processing.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -131,7 +150,7 @@ A real-time currency conversion web app with dynamic rate updates, optimized API
 ### 🌐 ShadowFox Internship Projects
 > Live client-facing web projects
 
-Responsive portfolio website + IPL Team website with 20+ player profiles. Optimized web components for a client project reducing page load time.
+Responsive portfolio website + IPL Team website with 20+ player profiles. Optimized web components for a client project, reducing page load time.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -145,7 +164,35 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 ---
 
-## 📊 GitHub Stats <div align="center"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/> <br><br> <img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/> <br><br> ![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) ![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/> </div>
+## 💼 Work Experience
+
+**Software Engineering Intern | Grids Apps LLC (Remote)** — *Jul 2026 – Present*
+- Develop and maintain backend components for a rate-based pricing engine on a multi-tenant ERP platform using **PHP and Laravel**.
+- Built and unit-tested REST APIs for real-time price calculation, rate history, and configurable charge rules.
+- Debugged and integrated business logic into POS/sales workflows with RBAC-based access control.
+
+**Web Developer Intern | ShadowFox (Remote)** — *Mar 2026 – Apr 2026*
+- Developed responsive web applications using HTML5, CSS3, JavaScript, and reusable UI components.
+- Performed debugging, testing, troubleshooting, and performance optimization to resolve application issues.
+- Followed the full SDLC — from design and development through testing, debugging, and deployment.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishusinghal15&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusinghal15&layout=compact&theme=github_dark&hide_border=true"/>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=rishusinghal15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<br><br>
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-1%2C567-7eb8f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) ![Since](https://img.shields.io/badge/Active%20Since-Apr%202025-e6f1ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusinghal15&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=e6f1ff&hide_border=true"/>
+
+</div>
+
 ## 🧩 Competitive Programming
 
 <div align="center">
@@ -164,17 +211,17 @@ Responsive portfolio website + IPL Team website with 20+ player profiles. Optimi
 
 - 🔨 Deepening expertise in **System Design** and **DSA** (C++/JS)
 - 📚 Exploring **AI/LLM integrations** in full-stack apps
-- 🎯 Targeting **SDE internship & full time roles** for 2026–2027 — open to exciting opportunities!
+- 🎯 Targeting **SDE internship & full-time roles** for 2026–2027 — open to exciting opportunities!
 
 ---
 
 ## 🎓 Certifications
 
-🏅  Google Project Management Professional Certificate  [Coursera]
-⚛️  Building Modern Projects with React                [LinkedIn Learning]
-🟢  Node.js Essential Training                         [LinkedIn Learning]
-🟡  JavaScript Essential Training                      [LinkedIn Learning]
-📐  Algorithm Analysis & Design Techniques             [upGrad Campus]
+🏅  Frontend Development on React — *upGrad Campus, Jun 2026*
+🏅  Google Project Management Professional Certificate — *Coursera, Mar 2026*
+⚛️  Building Modern Projects with React — *LinkedIn Learning, Feb 2026*
+🟡  JavaScript Essential Training — *LinkedIn Learning, Feb 2026*
+📐  Algorithm Analysis & Design Techniques — *upGrad Campus, Mar 2025*
 
 ---
 
